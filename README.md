@@ -1,1 +1,1 @@
-$\text{This repo contains the recreation of the option pricing method for the Stohastic-Volatility Jump-Diffusion model described by F. Hanson in his}$ [https://homepages.math.uic.edu/~hanson/pub/GYan/ACC07fhgywebpub.pdf](paper)
+$\text{This repo contains the recreation of the option pricing method for the Stohastic-Volatility Jump-Diffusion model described by F. Hanson in his}$ (https://homepages.math.uic.edu/~hanson/pub/GYan/ACC07fhgywebpub.pdf)[paper]
